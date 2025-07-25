@@ -1,0 +1,4 @@
+----Docker Compose----
+docker-compose up #for running all the containers
+docker-compose down #halting all the containers
+docker-compose down --rmi all --volumes --remove-orphans #Clean-up
